@@ -93,7 +93,7 @@ Dataset source: Publicly available plant disease datasets (e.g., PlantVillage), 
 1. **Clone the repo**
 
 ```bash
-git clone https://github.com/suraj-6/plant-disease-detection.git
+git clone https://github.com/udayaditya1510/Plant-Disease-Detection.git
 cd plant-disease-detection
 Create virtual environment (optional but recommended)
 Bash
